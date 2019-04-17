@@ -1,5 +1,5 @@
 sudo: true
-language: py
-python:python 3.5.3
+language: python
+python: 3.5.3
 install:
     - pip -r dep.txt
