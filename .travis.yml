@@ -1,12 +1,5 @@
 sudo: true
 language: py
-addons:
-  apt:
-    sources:
-    - ubuntu-toolchain-r-test
-    - llvm-toolchain-precise-3.8
-    packages:
-    - python3
-    - python3-pip
-script:
-- pip3 -r dep.txt
+python:python 3.5.3
+install:
+    - pip -r dep.txt
