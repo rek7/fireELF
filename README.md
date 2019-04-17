@@ -1,5 +1,5 @@
 # fireELF
-[![Build Status](https://travis-ci.org/rek7/fireELF.svg?branch=master)](https://travis-ci.org/rek7/fireELF) [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/rek7/fireELF/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/rek7/fireELF/blob/master/LICENSE)
 
 fireELF is a opensource fileless linux malware framework thats crossplatform and allows users to easily create and manage payloads. By default is comes with 'memfd_create' which is a new way to run linux elf executables completely from memory, without having the binary touch the harddrive.
 ## Screenshots
