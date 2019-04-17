@@ -6,7 +6,7 @@ from lib.settings import *
 from lib.generator import *
 from lib.misc import *
 
-# https://magisterquis.github.io/2018/03/31/in-memory-only-elf-execution.html
+
 
 class main(object):
     def parse_args(self, args):
